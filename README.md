@@ -24,7 +24,7 @@ Ce repository contient des configurations Terraform pour débuter avec l'Infrast
 └── README.md         # Ce fichier
 ```
 
-## 🚀 Prérequis
+##  Prérequis
 
 - [Terraform](https://www.terraform.io/downloads.html) (v1.0+)
 - [AWS CLI](https://aws.amazon.com/cli/) configurée
@@ -59,7 +59,7 @@ terraform apply
 terraform destroy
 ```
 
-## 📝 Configuration
+##  Configuration
 
 Modifie le fichier `terraform.tfvars` pour adapter les variables selon tes besoins :
 ```hcl
